@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Featherline Rush</string>
+    <string name="app_title">FEATHERLINE RUSH</string>
+
+    <string name="splash_subtitle">NIGHT COURIER ROUTE</string>
+    <string name="splash_loading">LOADING</string>
+
+    <string name="cd_logo">Featherline Rush emblem</string>
+    <string name="cd_bird">Courier bird</string>
+    <string name="cd_van">Delivery van</string>
+    <string name="cd_tram">Night tram</string>
+    <string name="cd_ferry">River ferry</string>
+    <string name="cd_parcel">Parcel crate</string>
+    <string name="cd_home">Menu</string>
+    <string name="cd_pause">Pause the route</string>
+    <string name="cd_lane_icon">Lane kind</string>
+
+    <string name="menu_tagline">CROSS THE CITY. KEEP THE PARCEL.</string>
+    <string name="menu_hint">TAP TO CROSS. HOLD TO WAIT.</string>
+    <string name="play">PLAY</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="settings">SETTINGS</string>
+    <string name="menu">MENU</string>
+    <string name="close">CLOSE</string>
+
+    <string name="stat_best_score">BEST SCORE</string>
+    <string name="stat_best_lanes">BEST LANES</string>
+    <string name="stat_lanes">LANES</string>
+    <string name="stat_near">NEAR MISSES</string>
+    <string name="stat_parcels">PARCELS</string>
+    <string name="stat_streak">BEST STREAK</string>
+
+    <string name="drills_title">DAILY DRILLS</string>
+    <string name="drills_reset">RESETS IN %1$dH %2$dM</string>
+    <string name="claim">CLAIM</string>
+    <string name="claimed">+1 FEATHER</string>
+    <string name="feather_cache">FEATHER CACHE %1$d</string>
+    <string name="drill_lanes">LANE SPRINT</string>
+    <string name="drill_lanes_rule">Cross %1$d lanes in a single run.</string>
+    <string name="drill_near">SLIPSTREAM SHIFT</string>
+    <string name="drill_near_rule">Score %1$d near misses in a single run.</string>
+    <string name="drill_parcels">PARCEL ROUND</string>
+    <string name="drill_parcels_rule">Collect %1$d parcels in a single run.</string>
+    <string name="drill_clean">CLEAN LINE</string>
+    <string name="drill_clean_rule">Reach lane %1$d without spending a feather.</string>
+    <string name="drill_reward">REWARD: ONE EXTRA STARTING FEATHER</string>
+    <string name="drill_line">DRILL %1$s</string>
+
+    <string name="game_lane">LANE %1$d</string>
+    <string name="game_score_state">SCORE %1$s</string>
+    <string name="game_hint">TAP GO TO CROSS ONE LANE - HOLD TO WAIT FOR A GAP</string>
+    <string name="go">GO</string>
+    <string name="hold">HOLD</string>
+    <string name="burst">BURST</string>
+    <string name="near_miss">NEAR MISS +%1$d</string>
+    <string name="checkpoint">CHECKPOINT BANKED</string>
+    <string name="surge">RAIN SURGE %1$d</string>
+    <string name="multiplier">x%1$s</string>
+    <string name="parcel_gain">+1 PARCEL</string>
+    <string name="forecast_title">NEXT</string>
+    <string name="lane_road">ROAD</string>
+    <string name="lane_rail">RAIL</string>
+    <string name="lane_river">RIVER</string>
+    <string name="lane_kerb">KERB</string>
+    <string name="feathers_state">%1$d OF %2$d FEATHERS LEFT</string>
+    <string name="recovery_label">BURST TO RECOVER</string>
+    <string name="no_gap">NO GAP YET</string>
+    <string name="drift_label">FERRY DRIFT</string>
+    <string name="slipstream">SLIPSTREAM</string>
+
+    <string name="pause_title">ROUTE PAUSED</string>
+    <string name="pause_body">Hazards hold their exact timing until you resume.</string>
+    <string name="resume">RESUME</string>
+
+    <string name="over_hazard">PARCEL DROPPED</string>
+    <string name="over_water">SWEPT DOWNRIVER</string>
+    <string name="over_feathers">OUT OF FEATHERS</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="new_record">NEW ROUTE RECORD</string>
+    <string name="rank_of">RANK %1$d OF %2$d</string>
+    <string name="banked_label">BANKED %1$s</string>
+    <string name="final_score_state">FINAL SCORE %1$s</string>
+
+    <string name="leaderboard_caption">LOCAL ROUTES</string>
+    <string name="filter_all">ALL TIME</string>
+    <string name="filter_today">TODAY</string>
+    <string name="empty_title">NO ROUTES LOGGED YET</string>
+    <string name="empty_body">FINISH A RUN TO POST A SCORE</string>
+    <string name="tag_new">NEW</string>
+    <string name="day_today">TODAY</string>
+    <string name="day_yesterday">YESTERDAY</string>
+    <string name="day_ago">%1$d DAYS AGO</string>
+    <string name="row_state">RANK %1$d SCORE %2$s</string>
+
+    <string name="settings_caption">TIMING AND ACCESS</string>
+    <string name="set_reaction">REACTION WINDOW</string>
+    <string name="set_reaction_body">Gap width and hazard speed across the whole route.</string>
+    <string name="opt_relaxed">RELAXED</string>
+    <string name="opt_standard">STANDARD</string>
+    <string name="opt_sharp">SHARP</string>
+    <string name="set_recovery">RECOVERY WINDOW</string>
+    <string name="set_recovery_body">How long a burst can still save the run after a hit.</string>
+    <string name="opt_recovery_short">1.0S</string>
+    <string name="opt_recovery_medium">1.6S</string>
+    <string name="opt_recovery_long">2.2S</string>
+    <string name="set_hold_assist">HOLD ASSIST</string>
+    <string name="set_hold_assist_body">A mistimed tap into a closed gap is refused instead of fatal.</string>
+    <string name="set_feathers">STARTING FEATHERS</string>
+    <string name="set_feathers_body">Feathers carried into a run, before the drill cache.</string>
+    <string name="set_reduce_motion">REDUCE MOTION</string>
+    <string name="set_reduce_motion_body">Turns off rain, shake and the surge zoom.</string>
+    <string name="set_contrast">HIGH CONTRAST LANES</string>
+    <string name="set_contrast_body">Brighter lane lights and outlined hazards.</string>
+    <string name="reset_defaults">RESET TO DEFAULTS</string>
+    <string name="reset_title">RESET SETTINGS</string>
+    <string name="reset_body">Every timing option returns to its default value.</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+    <string name="step_down">-</string>
+    <string name="step_up">+</string>
+    <string name="cd_step_down">Fewer starting feathers</string>
+    <string name="cd_step_up">More starting feathers</string>
+</resources>
